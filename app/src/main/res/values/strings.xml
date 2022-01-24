@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoodsExpiryDateTracker</string>
+    <string name="title_home">Home</string>
+    <string name="title_expire_date">Expire Date</string>
+    <string name="title_barcode_scanner">Barcode Scanner</string>
+
+    <string name="SaveBtn">Save</string>
+
+    <string name="preference_file_key"/>
+</resources>
